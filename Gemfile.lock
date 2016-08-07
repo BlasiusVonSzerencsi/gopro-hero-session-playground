@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    wake_on_lan (0.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  wake_on_lan
+
+BUNDLED WITH
+   1.12.5
